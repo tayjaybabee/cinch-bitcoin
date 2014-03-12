@@ -1,5 +1,6 @@
 cinch-bitcoin
 =============
+[![Gem Version](https://badge.fury.io/rb/cinch-bitcoin.png)](http://badge.fury.io/rb/cinch-bitcoin)
 
 A bitcoin plugin/gem for your Cinch IRC bot
 
