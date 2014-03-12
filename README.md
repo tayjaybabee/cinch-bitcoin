@@ -18,3 +18,5 @@ Just make sure to require and load it in your bot.rb.
 You can install your gem as follows:
 
     gem install cinch-bitcoin
+    
+To see this gem in action visit #Lobby on irc://rawr.sinsira.net
