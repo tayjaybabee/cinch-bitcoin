@@ -6,7 +6,8 @@ A bitcoin plugin/gem for your Cinch IRC bot
 
 ## Features ##
 
- - **Retrieve BTC value:** Retrieves and returns to the channel the value of one BTC in USD on the command !btcv
+ - **Retrieve BTC value:** Retrieves and returns to the channel the value of one BTC in any currency on the command !btcv [Currency]
+ - **Convert BTC to Any Currency:** You can use the command !btc [currency] [BTC Value]
  - **Help provided:** There is a help block in the plugin that you can trigger using !help bitcoin
 
 ## Usage ##

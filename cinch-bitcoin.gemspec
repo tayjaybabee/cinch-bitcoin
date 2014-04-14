@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
   s.name = "cinch-bitcoin"
-  s.version = '1.0.1'
+  s.version = '1.1'
   s.authors = ["Richard Banks"]
   s.email = ["namaste@rawrnet.net"]
   s.license = 'MIT'
   s.homepage = "https://github.com/RawrNet/cinch-bitcoin"
-  s.summary = "A gem/plugin for the Cinch IRC Framework that returns the value of Bitcoin in USD."
-  s.description = "A gem/plugin for the Cinch IRC Framework that returns the value of Bitcoin in USD. " +
+  s.summary = "A gem/plugin for the Cinch IRC Framework that returns the value of Bitcoin in the specified currency."
+  s.description = "A gem/plugin for the Cinch IRC Framework that returns the value of Bitcoin in the specified currency. " +
     "You can visit irc://rawr.sinsira.net #Lobby to get help, report issues " +
     ", test the gem, or just chat."
 
